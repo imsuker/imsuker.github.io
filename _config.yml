@@ -9,3 +9,4 @@ github_username: imsuker
 
 # Build settings
 markdown: kramdown
+timezone : +0800
