@@ -9,7 +9,7 @@ date : 2015-08-06 14:43:00
 {% highlight bash %}
 $ mkdir ../result
 # => 创建文件夹
-$ in *;do iconv -f UTF8 -t GB18030 $i > ../result/$i;done
+$ for in *;do iconv -f UTF8 -t GB18030 $i > ../result/$i;done
 # =>循环转化每个文件到新文件夹
 {% endhighlight %}
 [dcharm]:http://www.dcharm.com/?p=8, 
