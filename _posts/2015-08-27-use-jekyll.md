@@ -13,6 +13,9 @@ date : 2015-08-27 18:40:00
 $ jekyll serve --watch
 # => 本地运行，当内容发生变更时，自动更新
 {% endhighlight %}
+4,[markdown在线编辑器](https://www.zybuluo.com/mdeditor)  
+&nbsp;&nbsp;&nbsp;&nbsp;**新技能get:如果想让一段文字换行，可以在尾部追加两个空格即可。**  
+
 
 
 
