@@ -1,8 +1,8 @@
 # Site settings
 title: Suker的技术博客
 email: imsuker@qq.com
-description: > 
-  记录日常遇到的一些技术问题。
+description: "记录日常遇到的一些技术问题。"
+keywords : "nodejs,javascript,sql,iphone"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://imsuker.github.io" # the base hostname & protocol for your site
 github_username: imsuker 

@@ -1,6 +1,7 @@
 ---
 layout : post
 title : "解决mac上cvs乱码问题,批量修改cvs编码"
+keywords : "mac,cvs,编码"
 date : 2015-08-06 14:43:00
 ---
 从服务器导出来的cvs文件，用mac下的excel打开时会出现中文乱码的情况。主要是mac下的excel不支持utf8格式的中文，因此需将其转换为GB18030,请参考[文章][dcharm]。
