@@ -1,7 +1,7 @@
 ---
   layout : post
   title : "ios切入后台后的变化"
-  date : 2015-08-06 16:20:00
+  date : 2015-08-27 18:20:00
 ---
 ios app切换到后台后，会有哪些变化，需要如何应对,简单的做了一下研究。写了个[demo][background in github]。
 
