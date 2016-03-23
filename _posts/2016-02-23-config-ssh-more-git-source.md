@@ -6,7 +6,7 @@
 github不允许多个帐号绑定同一个客户端的rsa,所以想在一台机器上操作两个github帐号，需要做特殊配置：  
 1,生成新的rsa
 {% highlight bash %}
-ssh-keygen -t ras -C "email"
+ssh-keygen -t rsa -C "email"
 #注意，回车后第一行不要回车，写上新的rsa名字，譬如:imsuker
 {% endhighlight %}
 2,添加到ssh`ssh-add imsuker`  
