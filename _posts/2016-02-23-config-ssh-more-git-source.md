@@ -10,6 +10,7 @@ ssh-keygen -t rsa -C "email"
 #注意，回车后第一行不要回车，写上新的rsa名字，譬如:imsuker
 {% endhighlight %}
 2,添加到ssh`ssh-add imsuker`  
+如果失败，请先执行`ssh-agent bash`
 3,在`~/.ssh/`目录下新建config文件
 {% highlight bash %}
  Host github.com
